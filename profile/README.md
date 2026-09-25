@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/tokenhop/resources/main/png/banner-readme-dark.png" alt="tokenhop" width="800"></p>
+
 # tokenhop
 
 Self-hosted AI routing gateway: one OpenAI-compatible endpoint in front of many LLM
