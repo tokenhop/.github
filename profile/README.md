@@ -6,8 +6,9 @@ Self-hosted AI routing gateway: one OpenAI-compatible endpoint in front of many 
 providers, with model fallback, multi-account rotation, OAuth credential management, and
 usage tracking.
 
-Not released yet. The project is currently developed as
-[yandy-r/9router](https://github.com/yandy-r/9router) and will move here.
+**v1.0.0 is out.** Source, issues and releases: [tokenhop/tokenhop](https://github.com/tokenhop/tokenhop).
+Upgrading from 9router? See [UPGRADING.md](https://github.com/tokenhop/tokenhop/blob/master/UPGRADING.md).
 
+- Image: [`ghcr.io/tokenhop/tokenhop`](https://github.com/tokenhop/tokenhop/pkgs/container/tokenhop)
 - npm: [`tokenhop`](https://www.npmjs.com/package/tokenhop)
-- Web: [tokenhop.dev](https://tokenhop.dev)
+- Docs: [tokenhop.dev](https://tokenhop.dev)
